@@ -1,6 +1,0 @@
-flask
-pandas
-numpy
-h5py
-requests
-scikit-learn
